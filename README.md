@@ -28,3 +28,5 @@ The project is a single-user game that consists of moving the hero through a maz
 ![image](https://user-images.githubusercontent.com/74180896/167537127-5fdaecff-8786-4332-abf2-288d64582714.png)
 
 ![image](https://user-images.githubusercontent.com/74180896/167537153-4603a383-a005-4871-a4d4-9a58597d39a8.png)
+
+# You can download the file and start to play 😄
