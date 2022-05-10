@@ -30,3 +30,4 @@ The project is a single-user game that consists of moving the hero through a maz
 ![image](https://user-images.githubusercontent.com/74180896/167537153-4603a383-a005-4871-a4d4-9a58597d39a8.png)
 
 # You can download the file and start to play 😄
+https://github.com/MeryemEssalmi/Final-labyrinth-game/blob/main/MiniHero.jar
